@@ -1,0 +1,15 @@
+{
+  "users": [
+    { "name": "Mohammad", "id": 1, "favouriteColour": "#3399CC" },
+    { "name": "Jared", "id": 2, "favouriteColour": "#000000" },
+    { "name": "Samantha", "id": 3, "favouriteColour": "#FFFFFF" }
+  ],
+  "colours": [
+    { "colour": "#3399CC", "group": "blues" },
+    { "colour": "#0000FF", "group": "blues" },
+    { "colour": "#111111", "group": "darks" },
+    { "colour": "#000000", "group": "darks" },
+    { "colour": "#FFFFFF", "group": "lights" },
+    { "colour": "#DDDDDD", "group": "lights" }
+  ]
+}
